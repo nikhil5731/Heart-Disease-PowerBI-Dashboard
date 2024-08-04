@@ -126,14 +126,3 @@ Thallium testing is a method where the radioactive element thallium (Tl) is intr
 </details>
 
   >Note: Names of the columns were changed while transforming the data in Power BI.
-
-## Sources
-
- - Dataset - [https://drive.google.com/drive/folders/1M5z7z1NmWar7y1eFs67orfjqHL0iSViL](https://drive.google.com/drive/folders/1M5z7z1NmWar7y1eFs67orfjqHL0iSViL)
-(iNeuron) 
-
- - Dataset factors explanation – [https://www.kaggle.com/onatto/predicting-heart-disease-a-detailed-guide](https://www.kaggle.com/onatto/predicting-heart-disease-a-detailed-guide)
-(Kaggle)
-
- - Vector art - [https://www.freepik.com/vectors/people](https://www.freepik.com/vectors/people)
-(People vector created by katemangostar - www.freepik.com)
